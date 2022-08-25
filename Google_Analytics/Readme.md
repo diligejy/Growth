@@ -25,7 +25,12 @@
 ---
 7. [Data Science & Machine Learning with Google Analytics](https://www.linkedin.com/pulse/data-science-machine-learning-google-analytics-part-1-eduardo-garc%C3%A9s/)
 
-## 2. dataLayer
+## 2. GA - Segment
+
+[Advanced Segments in Google Analytics - GA 12](https://www.youtube.com/watch?v=SIPMDZjPdqY)
+
+
+## 3. dataLayer
 
 1. [구글 애널리틱스4 (GA4) 강의 9. dataLayer : GA4 dataLayer 태깅. 플러스제로
 ](https://www.youtube.com/watch?v=eyyK9qD6WZo)
