@@ -32,5 +32,8 @@
 
 ## 3. dataLayer
 
-1. [구글 애널리틱스4 (GA4) 강의 9. dataLayer : GA4 dataLayer 태깅. 플러스제로
-](https://www.youtube.com/watch?v=eyyK9qD6WZo)
+1. [구글 애널리틱스4 (GA4) 강의 9. dataLayer : GA4 dataLayer 태깅. 플러스제로](https://www.youtube.com/watch?v=eyyK9qD6WZo)
+
+## 4. GA Debugger
+
+1. [Google Analytics Debugger for Chrome | Lesson 24](https://www.youtube.com/watch?v=oP2SfV2TnMs)
