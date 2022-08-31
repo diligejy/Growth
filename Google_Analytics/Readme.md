@@ -25,6 +25,10 @@
 ---
 7. [Data Science & Machine Learning with Google Analytics](https://www.linkedin.com/pulse/data-science-machine-learning-google-analytics-part-1-eduardo-garc%C3%A9s/)
 
+---
+8. [Set Up and Use Google Analytics Site Search Information](https://www.youtube.com/watch?v=sBxZPGD22MQ)
+    - [블로그 정리](https://ugong2san.tistory.com/4601)
+
 ## 2. GA - Segment
 
 [Advanced Segments in Google Analytics - GA 12](https://www.youtube.com/watch?v=SIPMDZjPdqY)
