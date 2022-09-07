@@ -1,0 +1,2 @@
+1. [매출추이 그래프 보고서 만들기(구글시트 - 데이터스튜디오 연결)[업무효율화 튜토리얼]](https://www.youtube.com/watch?v=GfUb2TiJqag&ab_channel=%EC%98%A4%ED%86%A0%EC%8B%9C%ED%8A%B8-%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%9D%BC%ED%95%98%EB%8A%94%EB%B2%95)
+    - [데이터 스튜디오 시각화 결과](https://datastudio.google.com/reporting/9c7f2aee-ca1a-4134-994d-aaf8d68c14e2)
