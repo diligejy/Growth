@@ -9,8 +9,10 @@
     - 블로그 정리 : [링크](https://ugong2san.tistory.com/4555)
     - Jupyter File: [링크](abtest_from_scratch_py.ipynb)
     - R File : [링크](abtest_from_scarch_r.R)
-2. 
 
+2. [Cracking A/B Testing Problems in Data Science Interviews | Product Sense | Case Interview](https://youtu.be/X8u6kr4fxXc)
+    - 블로그 정리 : [링크](https://ugong2san.tistory.com/4622)
+    
 ### Example
 
 1. [Amazon Experiment](https://www.exp-platform.com/Documents/GuideControlledExperiments.pdf)

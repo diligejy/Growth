@@ -1,0 +1,1 @@
+1. [Python Project - Optimize Marketing Campaigns | Regression and Correlation Analysis](https://www.youtube.com/watch?v=GHxOtLtZqWU)
