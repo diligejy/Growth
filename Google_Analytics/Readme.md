@@ -29,6 +29,8 @@
 8. [Set Up and Use Google Analytics Site Search Information](https://www.youtube.com/watch?v=sBxZPGD22MQ)
     - [블로그 정리](https://ugong2san.tistory.com/4601)
 
+9. [Google Analytics Automation: 9 Things You Can Automate Today](https://www.youtube.com/watch?v=DLp9lwgrWGU&ab_channel=LovesData)
+
 ## 2. GA - Segment
 
 [Advanced Segments in Google Analytics - GA 12](https://www.youtube.com/watch?v=SIPMDZjPdqY)
