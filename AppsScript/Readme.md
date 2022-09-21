@@ -11,3 +11,9 @@
 
 ---
 3. [Send Slack Message From Google Sheet via Apps Script](https://www.youtube.com/watch?v=630QGYcCwg0&list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ&index=23&ab_channel=Amarindaz)
+
+4. [Apps Script를 통한 작업 자동화](https://developers.google.com/apps-script/samples)
+
+--- 
+
+5. [Google Apps Script 동영상 라이브러리](https://developers.google.com/apps-script/guides/videos)

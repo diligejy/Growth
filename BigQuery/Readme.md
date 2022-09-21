@@ -7,3 +7,8 @@
 ## 3. [BigQuery Export Schema](./BigQuery_Export_Schema.md)
 
 ## 4. [Troubleshooting Common SQL Errors with BigQuery](./Troubleshooting_Common_SQL_Errors_with_BigQuery.md)
+
+## 5. [Big Data Analysis to a Slide Presentation](./Big_Data_Analysis_to_a_Slide_Presentation.md)
+
+## 6. [BigQuery integrates with Google Drive](https://cloud.google.com/blog/products/gcp/bigquery-integrates-with-google-drive)
+
