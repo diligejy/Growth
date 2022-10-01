@@ -12,3 +12,12 @@
 
 ## 6. [BigQuery integrates with Google Drive](https://cloud.google.com/blog/products/gcp/bigquery-integrates-with-google-drive)
 
+## 7. [Creating Permanent Tables and Access-Controlled Views in BigQuery](./Creating_Permanent_Tables_and_Access_Controlled_Views_in_BigQuery.md)
+
+## 8. [Ingesting New Datasets into BigQuery](./Ingesting_New_Datasets_into_BigQuery.md)
+
+## 9. [How to Build a BI Dashboard Using Google Data Studio and BigQuery](./How_To_Build_a_BI_Dashboard_Using_Google_Data_Studio_and_BigQuery.md)
+
+## 10. [Data Catalog: Qwik Start](./Data_Catalog_Qwik_Start.md)
+
+## 11. [Exploring Dataset Metadata Between Projects with Data Catalog](./Exploring_Dataset_Metadata_Between_Projects_with_Data_Catalog.md)
