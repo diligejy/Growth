@@ -21,3 +21,12 @@
 ## 10. [Data Catalog: Qwik Start](./Data_Catalog_Qwik_Start.md)
 
 ## 11. [Exploring Dataset Metadata Between Projects with Data Catalog](./Exploring_Dataset_Metadata_Between_Projects_with_Data_Catalog.md)
+
+## 12. [Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors](./Build_and_Execute_MySQL_PostgreSQL_and_SQLServer_to_Data_Catalog_Connectors.md)
+
+## 13. [Insights from Data with BigQuery: Challenge Lab](./Insights_from_Data_with_BigQuery_Challenge_Lab.md)
+
+
+## 14. [구글 애널리틱스 : UA와 BigQuery로 연결한 데이터 스튜디오 속도 비교. 플러스제로](https://www.youtube.com/watch?v=lLPch1J2E6U&ab_channel=PlusZero)
+
+## 15. [Querying a public dataset](https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console#query_a_public_dataset)
