@@ -18,3 +18,11 @@
 
 ## Example: RANK() Function for aggregating over group of rows
 
+```SQL
+SELECT 
+    firstname
+    , department
+    , startdate
+    , RANK() OVER (PARTITION BY department ORDER BY startdate ) AS rank
+FROM Employees;
+```
