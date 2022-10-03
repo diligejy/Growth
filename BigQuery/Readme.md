@@ -30,3 +30,7 @@
 ## 14. [구글 애널리틱스 : UA와 BigQuery로 연결한 데이터 스튜디오 속도 비교. 플러스제로](https://www.youtube.com/watch?v=lLPch1J2E6U&ab_channel=PlusZero)
 
 ## 15. [Querying a public dataset](https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console#query_a_public_dataset)
+
+## 16. [Achieving Advanced Insights with BigQuery](./Achieving_Advanced_Insights_with_BigQuery.md)
+
+## 17. [구글 애널리틱스4 (GA4) 강의 14. BigQuery 연동 : GA4와 BigQuery 연동해보기. 플러스제로](https://www.youtube.com/watch?v=NKElVGkiNFU&ab_channel=PlusZero)
