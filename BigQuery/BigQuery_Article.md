@@ -1,0 +1,1 @@
+## 1. [RFM BigQuery](https://towardsdatascience.com/rfm-analysis-using-bigquery-ml-bfaa51b83086)
