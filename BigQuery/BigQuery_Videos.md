@@ -4,3 +4,5 @@
 
 ## 3. [구글애널리틱스와 BigQuery를 활용한 마케팅 데이터분석](https://www.youtube.com/watch?v=DS18mM2PE1I&ab_channel=%EB%A9%94%EA%B0%80%EC%A1%B4)
 - ### [Note](./ga_bigquery/GA_BigQuery_Marketing_Analytics.md)
+
+## 4. [구글 애널리틱스(GA4) BigQuery : BigQuery GA4 데이터의 주요 특징. 플러스제로](https://www.youtube.com/watch?v=FUkYiUZk3rU&ab_channel=PlusZero)
