@@ -32,13 +32,13 @@ what change in our business processes can we make right now to increase revenues
 
 Two attributes make a business metric dynamic. 
 
-First, will the metric change significantly over intervals of a month or less? If not, it's not very dynamic. 
+`First, will the metric change significantly over intervals of a month or less? If not, it's not very dynamic. `
 
 For example, the monthly rent a stand alone retail store in a mall pays on its three-year real estate lease is of course a business metric related to its efficiency and profitability, but it is not a dynamic business metric. There's no point in tracking it because it won't change anytime soon.
 
 On the other hand, if a national retail chain with 1,000 mall-based stores is individually negotiating and signing an average of about seven new three-year leases each week, it can and should track average monthly rent per square foot on new real estate leases as an important dynamic metric, against which to set goals and track progress. 
 
-Second, are their specific actions the company can take that can visibly or significantly impact the metric in the short term?
+`Second, are their specific actions the company can take that can visibly or significantly impact the metric in the short term?`
 
 If not, then the metric doesn't lend itself to dynamic tracking.
 
