@@ -19,4 +19,20 @@
 
 ## 3. Schema Design and Nested Data Structures
 
-- [BigQuery versus traditional relational data architecture]
+- [BigQuery versus traditional relational data architecture](https://youtu.be/1mT27d7Kxrg)
+
+- [Denormalized, column-based storage](https://youtu.be/x1oxN-1NGj8)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Denormalized_column_based_storage.md)
+
+- [Table Sharding](https://youtu.be/SuqnnYjY-zI)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Table_Sharding.md)
+
+- [Introducing nested and repeated fields](https://youtu.be/9ZYrbrvh9Vc)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Introducing_nested_and_repeated_fields.md)
+
+- [Introducing arrays and structs](https://youtu.be/Tjt1Pw52-TQ)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Introducing_arrays_and_structs.md)
