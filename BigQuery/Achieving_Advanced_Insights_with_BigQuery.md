@@ -36,3 +36,28 @@
 - [Introducing arrays and structs](https://youtu.be/Tjt1Pw52-TQ)
 
     - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Introducing_arrays_and_structs.md)
+
+
+- [Working with JSON, Arrays, and Structs in BigQuery v1.5](./Achieving_Advanced_Insights_with_BigQuery_note/Working_with_JSON_Arrays_and_Structs_in_BigQuery.md)
+
+## 4. Optimizing for Performance
+
+- [Avoid BigQuery performance pitfalls](https://youtu.be/mI7pnxMRaSU)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Avoid_BigQuery_performance_pitfalls.md)
+
+- [Prevent hotspots in your data](https://youtu.be/0CvxrPI9SWI)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Prevent_hotspots_in_your_data.md)
+
+- [Diagnose performance issues](https://youtu.be/yxZqux9xro8)
+
+    - [Note](./Achieving_Advanced_Insights_with_BigQuery_note/Diagnose_performance_issues.md)
+
+## 5. Advanced Insights with Vertex AI Workbench
+
+- [BigQuery in JupyterLab on Vertex AI](./Achieving_Advanced_Insights_with_BigQuery_note/BigQuery_in_JupyterLab_on_Vertex_AI.md)
+
+## 6. Data Access
+
+- [Data access roles, creating authorized views, and common pitfalls](./Achieving_Advanced_Insights_with_BigQuery_note/Data_access_roles_creating_authorized_views_and_common_pitfalls.md)
