@@ -9,10 +9,15 @@
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4622)
 
-## 3. [Perfect Amount of Traffic per A/B Test](https://www.youtube.com/watch?v=uPuODZ-eeSI&ab_channel=TestingTheory)
+## 3. [End to End A/B test example in R](https://youtu.be/kroIR-59jo8)
+
+- Note : [Link]()
+
+## 4. [Perfect Amount of Traffic per A/B Test](https://www.youtube.com/watch?v=uPuODZ-eeSI&ab_channel=TestingTheory)
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4663)
 
-## 4. [A/B Testing Misconception More Traffic is More Risk](https://www.youtube.com/watch?v=nZNUEkn0K8c&ab_channel=TestingTheory)
+## 5. [A/B Testing Misconception More Traffic is More Risk](https://www.youtube.com/watch?v=nZNUEkn0K8c&ab_channel=TestingTheory)
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4664)
+
