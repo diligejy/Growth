@@ -11,13 +11,17 @@
 
 ## 3. [End to End A/B test example in R](https://youtu.be/kroIR-59jo8)
 
-- Note : [Link]()
+- Note : [Link](./End_to_End_AB_Test_Example_in_R.md)
 
-## 4. [Perfect Amount of Traffic per A/B Test](https://www.youtube.com/watch?v=uPuODZ-eeSI&ab_channel=TestingTheory)
+## 4. [A/B Testing vs Multivariate Testing](https://youtu.be/gLgElpZB0F0)
+
+- Note : [Link](.)
+
+## 5. [Perfect Amount of Traffic per A/B Test](https://www.youtube.com/watch?v=uPuODZ-eeSI&ab_channel=TestingTheory)
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4663)
 
-## 5. [A/B Testing Misconception More Traffic is More Risk](https://www.youtube.com/watch?v=nZNUEkn0K8c&ab_channel=TestingTheory)
+## 6. [A/B Testing Misconception More Traffic is More Risk](https://www.youtube.com/watch?v=nZNUEkn0K8c&ab_channel=TestingTheory)
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4664)
 
