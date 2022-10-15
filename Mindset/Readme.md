@@ -1,1 +1,3 @@
 1. [16배 성장하고 싶다면 '이것' 먼저 해보세요](https://eopla.net/magazines/58?fbclid=IwAR0u5EcVZ1Hg1Z7CDkIwnUyf1M-5eZkJlJjB5ZqhuoCbKJl7c9NQYrwYKD4#)
+
+2. [수리남 배우 황정민, 연기 경력이 중요하지 않은 이유는?](https://www.youtube.com/watch?v=9LuCKFAHI4w&ab_channel=Wonderwall.%EC%9B%90%EB%8D%94%EC%9B%94)
