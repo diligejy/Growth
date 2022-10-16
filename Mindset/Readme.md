@@ -3,3 +3,5 @@
 2. [수리남 배우 황정민, 연기 경력이 중요하지 않은 이유는?](https://www.youtube.com/watch?v=9LuCKFAHI4w&ab_channel=Wonderwall.%EC%9B%90%EB%8D%94%EC%9B%94)
 
 3. [10초 15분 1주일](./10s_15m_1week.md)
+
+4. [10초만에 이기는 보고서](./win_report_by_10s.md)
