@@ -5,3 +5,5 @@
 3. [10초 15분 1주일](./10s_15m_1week.md)
 
 4. [10초만에 이기는 보고서](./win_report_by_10s.md)
+
+5. [업무에 바로 써먹는 수학 사고력](./math_work_immediately.md)

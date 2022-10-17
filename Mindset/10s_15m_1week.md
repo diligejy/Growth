@@ -46,7 +46,7 @@
 
 > p.46  
 >  \
-> <img src="10s_15min_1week_46p.png">
+> <img src="./images/10s_15min_1week_46p.png">
 
 > p.49-50 \
 > "10초 이상 생각하지 마라!"
