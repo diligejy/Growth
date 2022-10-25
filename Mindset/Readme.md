@@ -7,3 +7,5 @@
 4. [10초만에 이기는 보고서](./win_report_by_10s.md)
 
 5. [업무에 바로 써먹는 수학 사고력](./math_work_immediately.md)
+
+6. [복잡한 문제를 간단하게 풀어주는 생각의 기술](/complex_problem_thinking_art.md)
