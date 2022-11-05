@@ -31,6 +31,8 @@
 
 9. [Google Analytics Automation: 9 Things You Can Automate Today](https://www.youtube.com/watch?v=DLp9lwgrWGU&ab_channel=LovesData)
 
+10. [Content Grouping Overview](https://www.youtube.com/watch?v=auDIobdIeqs&ab_channel=GoogleAnalytics)
+
 ## 2. GA - Segment
 
 [Advanced Segments in Google Analytics - GA 12](https://www.youtube.com/watch?v=SIPMDZjPdqY)
