@@ -9,3 +9,6 @@
 5. [업무에 바로 써먹는 수학 사고력](./math_work_immediately.md)
 
 6. [복잡한 문제를 간단하게 풀어주는 생각의 기술](/complex_problem_thinking_art.md)
+
+7. [마케터에게 필요한 재무와 데이터](https://www.wanted.co.kr/career-video/49?utm_source=wanted&utm_medium=share)
+    - [정리](./finance_data_for_marketer.md)
