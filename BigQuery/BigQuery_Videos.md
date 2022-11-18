@@ -6,3 +6,6 @@
 - ### [Note](./ga_bigquery/GA_BigQuery_Marketing_Analytics.md)
 
 ## 4. [구글 애널리틱스(GA4) BigQuery : BigQuery GA4 데이터의 주요 특징. 플러스제로](https://www.youtube.com/watch?v=FUkYiUZk3rU&ab_channel=PlusZero)
+
+## 5. [Analyzing Google Analytics Data in BigQuery: Part 1](https://youtu.be/UhCvi6312bE)
+
