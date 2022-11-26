@@ -1,12 +1,13 @@
 import tkinter as tk
 from pathlib import Path
-from tkinter import filedialog
+from tkinter import filedialog, messagebox
+from typing import Callable
 
 DEFAULT_FILENAME = "untitled.txt"
 
 
 class WorsePad(tk.Tk):
-    def __init__(self, show_save_button: bool = True) -> None:
+    def __init__(self, show_save_button:bool) -> None:
         super().__init__()
         self.title("Worsepad")
         self.geometry("400x250+300+300")
@@ -28,7 +29,7 @@ class WorsePad(tk.Tk):
             file_menu.add_command(label=label, command=command)
 
         menubar.add_cascade(label="File", menu=file_menu)
-
+    
         frame = tk.Frame(self)
         frame.pack(fill=tk.BOTH, expand=1)
 
@@ -38,7 +39,16 @@ class WorsePad(tk.Tk):
 
         self.text = tk.Text(frame)
         self.text.pack(fill=tk.BOTH, expand=1)
-
+        
+        result: str = messagebox.askquestion(  # type: ignore
+            "Privacy check",
+            "Do you want to share usage statistics with us?",
+            icon="warning",
+        )
+        if result == "no":
+            self.post_event: Callable[[str], None] = lambda _: None
+    
+    
     def on_open(self) -> None:
         file_str = filedialog.askopenfilename(title="Select file")
 
