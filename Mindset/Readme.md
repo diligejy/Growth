@@ -12,3 +12,5 @@
 
 7. [마케터에게 필요한 재무와 데이터](https://www.wanted.co.kr/career-video/49?utm_source=wanted&utm_medium=share)
     - [정리](./finance_data_for_marketer.md)
+
+8. [매출 분석 체크리스트](./sales_analysis_checklist.md)

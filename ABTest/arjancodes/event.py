@@ -8,3 +8,4 @@ def post_event(event_type: str) -> None:
     print(f"Sending event {event_type} to Mixpanel.")
     m_panel = Mixpanel(token)
     m_panel.track("ID", event_type)
+    
