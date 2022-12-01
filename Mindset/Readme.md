@@ -14,3 +14,7 @@
     - [정리](./finance_data_for_marketer.md)
 
 8. [매출 분석 체크리스트](./sales_analysis_checklist.md)
+
+9. ["누구나 쉽게 개발자가 될 수 있다"는 말의 함정](https://youtu.be/oR8e_-KyhDk)
+
+10. [[데이터야놀자2022] Do Not Go Gentle into that SQL: SQL 강의가 말하지 않는 데이터 분석의 A to Z - 플래터님](https://youtu.be/O0O5E1fEPr0)
