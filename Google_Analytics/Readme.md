@@ -33,6 +33,8 @@
 
 10. [Content Grouping Overview](https://www.youtube.com/watch?v=auDIobdIeqs&ab_channel=GoogleAnalytics)
 
+11. [GA4를 사용하면 좋은점 10가지](https://brunch.co.kr/@seongminyoo/137?fbclid=IwAR0biidJpMVur7XNAUEksD7M6hy5WoVPRRI4SgzoIGJHl4KzTf9l1aQm-fo)
+
 ## 2. GA - Segment
 
 [Advanced Segments in Google Analytics - GA 12](https://www.youtube.com/watch?v=SIPMDZjPdqY)
