@@ -9,3 +9,5 @@
 
 ## 5. [Analyzing Google Analytics Data in BigQuery: Part 1](https://youtu.be/UhCvi6312bE)
 
+## 6. [BigQuery의 새로운 기능](https://youtu.be/l19_XWRuhj8)
+    - [Note](./Note/BigQuery_New_Features_221206.md)
