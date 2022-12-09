@@ -25,3 +25,4 @@
 
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4664)
 
+## 7. [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size](https://youtu.be/KC1nwY7YCUE)

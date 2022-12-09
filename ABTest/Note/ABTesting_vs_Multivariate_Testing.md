@@ -27,11 +27,11 @@ b. Test just `one element` on the page
 
     Example : Differ your CTA message from original (A) to variant (B)
 
-<img src="ab_n_test.png">
+<img src="../Img/ab_n_test.png">
 
 ## 4. Multivariate Testing
 
-<img src="multivariate_test.png"  width="200"/>
+<img src="../Img/multivariate_test.png"  width="200"/>
 
     a. Compares a higher number of variables
     b. Reveals more information on how variable interact with one another
@@ -42,7 +42,7 @@ b. Test just `one element` on the page
 
 a. Test combinations of variables within a single campaign or message:
 
-<img src="multivariate_ex.png">
+<img src="../Img/multivariate_ex.png">
 
     Example : Test the title or header of your landing page, plus the image that accompanies your text, plus the color of the CTA button
 
@@ -50,4 +50,4 @@ a. Test combinations of variables within a single campaign or message:
 
 ## 6. Pros and Cons
 
-<img src="compare_ab_n_multivariate.png">
+<img src="../Img/compare_ab_n_multivariate.png">
