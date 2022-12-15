@@ -26,3 +26,7 @@
 - 블로그 정리 : [링크](https://ugong2san.tistory.com/4664)
 
 ## 7. [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size](https://youtu.be/KC1nwY7YCUE)
+    - [Lecture Note](./Note/Sample_Size_AB_Testing_101.md)
+
+## 8. [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST](https://youtu.be/5Qw05CvbH1g)
+    - [Lecture Note](./Note/KPI_ABTest.md)
