@@ -16,6 +16,8 @@
 
 1. [구글 애널리틱스4 (GA4) 강의 9. dataLayer : GA4 dataLayer 태깅. 플러스제로](https://www.youtube.com/watch?v=eyyK9qD6WZo)
 
+2. [GA4 Anomaly Detection](https://youtu.be/eLjYoxrYVjs)
+
 
 
 ## 3. Debugger & AddOn
