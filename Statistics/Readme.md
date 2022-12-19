@@ -15,3 +15,12 @@
 5. [R을 활용한 데이터 분석, R 프로그래밍, R 통계, 평균비교, t 검정, R Programming, R Statistics, t-test](https://youtu.be/9C2nnuTkifs)
     - [Lecture Note](./Note/T_Test_with_R.md)
     - [Code](./Code/T_Test.R)
+
+6. [Sampling Distributions (7.2)](https://youtu.be/7S7j75d3GM4)
+    - [Lecture Note](./Note/Sampling_Distribution.md)
+
+7. [How to Learn Probability Distributions](https://youtu.be/mBCiKUzwdMs)
+    - [Lecture Note](./Note/How_To_Learn_Probability_Distribution.md)
+
+8. [5 Probability Distributions you should know as a Data Scientist](https://youtu.be/CF0l5zw4t9s)
+    - [Lecture Note](./Note/5_Probability_Distributions.md)
