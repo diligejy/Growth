@@ -11,3 +11,6 @@
 
 3. [How to Handle Imbalanced Dataset | Machine Learning Interview Q&A for Data Scientists](https://youtu.be/GR-OW5asKlk)
     - [Note](./Note/How_to_Handle_Imbalanced_Dataset.md)
+
+4. [Solving SQL Interview Query for Data Analyst asked by a Product based company](https://youtu.be/jS5_hjFgfzA)
+    - [Note](./Note/Solving_SQL_Interview1.md)

@@ -6,3 +6,6 @@
 
 3. [You're a First time CPO! Now What?](https://youtu.be/IPK28cWzI9U)
 - [Note](./Notes/you_are_a_first_time_cpo.md)
+
+4. [Martech 2022 to 2030: Five Trends of the Decade to Augment Growth](https://youtu.be/qdyMXLZkhpU)
+- [Note](./Notes/martech_2022_to_2030_five_trend.md)
