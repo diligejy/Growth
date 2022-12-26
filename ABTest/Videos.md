@@ -30,3 +30,6 @@
 
 ## 8. [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST](https://youtu.be/5Qw05CvbH1g)
     - [Lecture Note](./Note/KPI_ABTest.md)
+
+## 9. [Talking Bayes to Business: A/B Testing Use Case | Shopify](https://youtu.be/J6kqvWnUE2Q)
+    - [Lecture Note](./Note/talking_bayes_to_business.md)
