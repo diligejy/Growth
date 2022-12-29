@@ -18,6 +18,10 @@
 
 2. [GA4 Anomaly Detection](https://youtu.be/eLjYoxrYVjs)
 
+3. [Turn insights into ROI with Google Analytics 4 - Google Marketing Live 2022](https://youtu.be/maoedHuHJxQ)
+
+4. [Best practices for account structure in Google Analytics 4 properties](https://youtu.be/SHh9VfvXVdw)
+    - [Note](./Notes/best_practice_for_account_structure_in_ga4.md)
 
 
 ## 3. Debugger & AddOn
