@@ -24,3 +24,5 @@
 
 8. [5 Probability Distributions you should know as a Data Scientist](https://youtu.be/CF0l5zw4t9s)
     - [Lecture Note](./Note/5_Probability_Distributions.md)
+
+9. [Linear Regression and Multiple Regression](./Note/Linear_Regression_n_Multiple_Regression.md)
