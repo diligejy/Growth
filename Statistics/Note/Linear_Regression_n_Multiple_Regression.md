@@ -13,11 +13,11 @@
 1. What is Parametric?
     - Fixed equation forms to relate y and X
     - y = f(X) + e
-    - f(X) = $\beta_{0}$ + $\beta_{1}$ * X
+    - f(X) = $\beta_{0}$ + $\beta_{1}$ X
 
 2. Linear Regression Estimate
     - $\hat{y}$ = $\hat{f(X)}$
-    - $\hat{y}$ = $\hat{\beta_0}$ + $\hat{\beta_1}$ * X
+    - $\hat{y}$ = $\hat{\beta_0}$ + $\hat{\beta_1}$ X
 
 3. Linear Regression Actual Response
     - y = f(X) + e (Irreducible Error)
@@ -148,7 +148,7 @@ y_1 \\ y_2 \\ y_3 \\ . \\ . \\ . \\ y_n
 
 4. Residual Errors
 
-    - $ e = \begin{bmatrix} 
+    - ${e = \begin{bmatrix} 
     e_1 \\
     e_2 \\
     e_3 \\
@@ -156,33 +156,33 @@ y_1 \\ y_2 \\ y_3 \\ . \\ . \\ . \\ y_n
     . \\
     . \\
     e_n
-\end{bmatrix} = 
-\begin{bmatrix} 
-y_1 - \hat{y_1} \\
-y_2 - \hat{y_2} \\
-y_3 - \hat{y_3} \\
-. \\
-. \\
-. \\
-y_n - \hat{y_n} \\
-\end{bmatrix} = 
-\begin{bmatrix}
-y_1 \\
-y_2 \\
-y_3 \\
-. \\
-. \\
-. \\
-y_n \end{bmatrix} - 
-\begin{bmatrix}
-\hat{y_1} \\
-\hat{y_2} \\
-\hat{y_3} \\
-. \\
-. \\
-. \\
-\hat{y_n} \\
-\end{bmatrix} = y - \hat{y}$
+    \end{bmatrix} = 
+    \begin{bmatrix} 
+    y_1 - \hat{y_1} \\
+    y_2 - \hat{y_2} \\
+    y_3 - \hat{y_3} \\
+    . \\
+    . \\
+    . \\
+    y_n - \hat{y_n} \\
+    \end{bmatrix} = 
+    \begin{bmatrix}
+    y_1 \\
+    y_2 \\
+    y_3 \\
+    . \\
+    . \\
+    . \\
+    y_n \end{bmatrix} - 
+    \begin{bmatrix}
+    \hat{y_1} \\
+    \hat{y_2} \\
+    \hat{y_3} \\
+    . \\
+    . \\
+    . \\
+    \hat{y_n} \\
+    \end{bmatrix}$ = y - \hat{y}}$
     - RSS = ${\sum_{i=1}^{n}e_i^2} = e^Te$
     - RSS = $(y - \hat{y})^T (y - \hat{y}) = (y - X\hat{\beta})^T(y-X\hat{\beta})$
     - RSS = ${(y^T - \hat{\beta}^TX^T)(y - X\hat{\beta})} = y^Ty - y^T X \beta - \beta X^T y + \hat{\beta}^T X^TX\hat{\beta}$ 
@@ -192,18 +192,18 @@ y_n \end{bmatrix} -
     - x = m * 1 matrix
     - A = n * m matrix; A ㅗ x
 
-    - $ y = A \\-> \delta y / \delta x = 0 $
-    - $ y = Ax \\-> \delta y / \delta x = A $
-    - $ y = xA \\-> \delta y / \delta x = A^T $
-    - $ y = x^TAx \\-> \delta y / \delta x = 2x^TA$
+    - ${y = A  -> \delta y / \delta x = 0}$
+    - ${y = Ax -> \delta y / \delta x = A}$
+    - ${y = xA -> \delta y / \delta x = A^T }$
+    - ${y = x^TAx -> \delta y / \delta x = 2x^TA}$
 
-    - RSS = y^Ty - y^T X \beta - \beta X^T y + \hat{\beta}^T X^TX\hat{\beta}$ 
+    - RSS = $y^Ty - y^T X \beta - \beta X^T y + \hat{\beta}^T X^TX\hat{\beta}$ 
 
-    - $\delta(RSS) \over \delta \hat{\beta}) $ = $\delta (y^Ty - y^T X \hat{\beta} - \hat{\beta}X^T y + \hat{\beta^T} X \hat{\beta}) \over \delta \hat{\beta}  $ $= 0$
+    - ${\delta(RSS) \over \delta \hat{\beta})}$ = ${\delta (y^Ty - y^T X \hat{\beta} - \hat{\beta}X^T y + \hat{\beta^T} X \hat{\beta}) \over \delta \hat{\beta}}$ ${= 0}$
 
-    - $0 - y^T - (X^T y)^T + 2\hat{\beta}^T X^T X = 0 $
+    - $0 - y^T - (X^T y)^T + 2\hat{\beta}^T X^T X = 0$
 
-    - $ 2\hat{\beta}^T X^T X = 2 y^T X$
-    - $ \hat{\beta}^T X^T X =  y^T X$
-    - $ \hat{\beta}^T = y^TX(X^TX)^{-1}$
-    - $ \hat{\beta} = (X^TX)^{-1}X^Ty$
+    - ${2\hat{\beta}^T X^T X = 2 y^T X}$
+    - ${\hat{\beta}^T X^T X =  y^T X}$
+    - ${\hat{\beta}^T = y^TX(X^TX)^{-1}}$
+    - ${\hat{\beta} = (X^TX)^{-1}X^Ty}$
