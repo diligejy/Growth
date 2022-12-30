@@ -148,7 +148,7 @@ y_1 \\ y_2 \\ y_3 \\ . \\ . \\ . \\ y_n
 
 4. Residual Errors
 
-    - ${e = \begin{bmatrix} 
+    - $e = \begin{bmatrix} 
     e_1 \\
     e_2 \\
     e_3 \\
