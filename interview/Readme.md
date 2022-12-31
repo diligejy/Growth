@@ -14,3 +14,6 @@
 
 4. [Solving SQL Interview Query for Data Analyst asked by a Product based company](https://youtu.be/jS5_hjFgfzA)
     - [Note](./Note/Solving_SQL_Interview1.md)
+
+5. [Learn Product Sense in 9 Minutes | Data Science Interviews | Interview Coach (Ex-Google)](https://youtu.be/MtZTf-2JH2g)
+    - [Note](./Note/product_sence_9_min.md)

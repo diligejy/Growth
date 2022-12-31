@@ -12,6 +12,8 @@
 
 5. [Unsampled Reports and Custom Tables - Part 1](https://www.youtube.com/watch?v=0wWoXsNdmbc&ab_channel=GoogleAnalytics)
 
+6. [Google Analytics Metrics Every Small Business Owner Needs to Know](https://youtu.be/9PRUI54z9GY)
+
 ## 2. GA4
 
 1. [구글 애널리틱스4 (GA4) 강의 9. dataLayer : GA4 dataLayer 태깅. 플러스제로](https://www.youtube.com/watch?v=eyyK9qD6WZo)
