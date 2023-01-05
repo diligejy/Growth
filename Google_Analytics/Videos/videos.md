@@ -25,6 +25,13 @@
 4. [Best practices for account structure in Google Analytics 4 properties](https://youtu.be/SHh9VfvXVdw)
     - [Note](./Notes/best_practice_for_account_structure_in_ga4.md)
 
+5. [Creating Events in Google Analytics 4 Properties](https://youtu.be/FVzJkB4IxEQ)
+    - [Note](./Notes/Creating_Events_In_GA4_Properties.md)
+
+6. [Getting started with the Google Analytics 4 Property](https://youtu.be/S708NFbvTXI)
+    - [Note](./Notes/Getting_Started_With_GA4_Property.md)
+
+
 
 ## 3. Debugger & AddOn
 
