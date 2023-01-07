@@ -26,3 +26,7 @@
     - [Lecture Note](./Note/5_Probability_Distributions.md)
 
 9. [Linear Regression and Multiple Regression](./Note/Linear_Regression_n_Multiple_Regression.md)
+    - [Lecture Note](./Note/Linear_Regression_n_Multiple_Regression.md)
+
+10. [5 Concepts in Statistics You Should Know | Data Science Interview](https://youtu.be/jwlhScL3uBc)
+    - [Lecture Note](./Note/5_Concepts_In_Statistics_You_Should_Know.md)
