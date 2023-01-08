@@ -30,3 +30,6 @@
 
 10. [5 Concepts in Statistics You Should Know | Data Science Interview](https://youtu.be/jwlhScL3uBc)
     - [Lecture Note](./Note/5_Concepts_In_Statistics_You_Should_Know.md)
+
+11. [통계검정에서 정규성검정 꼭 필요할까? | t test | AB Test | 데이터분석](https://youtu.be/JXD9dKIU67M)
+    - [Lecture Note](./Note/Statistical_Test_Normality_Test.md)
