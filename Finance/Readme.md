@@ -6,3 +6,5 @@
 
 3. [Unit Economics for Startups | eCommerce, Software & Hardware](https://youtu.be/AMKgcBzK7cg)
     - [Template](https://docs.google.com/spreadsheets/d/1261zpKlxPF3PNpq3SWoheJK1a089JSAoY49iJbMG-7E/edit?usp=share_link)
+
+4. [Unit Economics for a Startup - Part 1](https://youtu.be/ElEFvoZg6Uk)
