@@ -10,3 +10,8 @@
 
 5. [Consulting Presentation Slides: Slide Message & Action Titles (Bain & Company, BCG, McKinsey)](https://youtu.be/3pLhyrra16w?list=PLJEhs6oIaUU7IhXaIShuVi0R7i_E2nd7j)
     - [Note](./Note/Consulting_Presentation_Slides_Slides_Message_Action_Titles.md)
+
+6. [HOW TO SOLVE PROBLEMS - How do consulting firms work (hypothesis-based problem solving explained)](https://youtu.be/TBvJzXxRuxs)
+    - [Note](./Note/How_Do_Consulting_Firms_Work.md)
+
+7. [TALK LIKE A CONSULTANT - MECE principle explained](https://youtu.be/N2oPgRLX8nU)
