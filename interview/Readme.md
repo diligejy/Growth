@@ -17,3 +17,5 @@
 
 5. [Learn Product Sense in 9 Minutes | Data Science Interviews | Interview Coach (Ex-Google)](https://youtu.be/MtZTf-2JH2g)
     - [Note](./Note/product_sence_9_min.md)
+
+5. [Framework to Solve Noom Advanced SQL Interview Question](https://youtu.be/5Lpbw71xR3o)
