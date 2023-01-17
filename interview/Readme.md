@@ -18,4 +18,12 @@
 5. [Learn Product Sense in 9 Minutes | Data Science Interviews | Interview Coach (Ex-Google)](https://youtu.be/MtZTf-2JH2g)
     - [Note](./Note/product_sence_9_min.md)
 
-5. [Framework to Solve Noom Advanced SQL Interview Question](https://youtu.be/5Lpbw71xR3o)
+6. [Framework to Solve Noom Advanced SQL Interview Question](https://youtu.be/5Lpbw71xR3o)
+
+7. [Using Rank() and PARTITIONs in SQL To Solve Complex SQL Interview Questions](https://youtu.be/vdmCxvaRdLU?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
+
+8. [SQL Solution to SPOTIFY Days At Number One Question](https://youtu.be/93quPoReV1M?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
+
+9. [SQL interview: How many Twitch viewers became streamers?](https://youtu.be/M-dT_0m4qhI?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
+
+10. [Meta SQL Interview Question - A Step-By-Step Solution](https://youtu.be/Q-3wvYInCeI?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
