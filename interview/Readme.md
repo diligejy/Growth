@@ -27,3 +27,5 @@
 9. [SQL interview: How many Twitch viewers became streamers?](https://youtu.be/M-dT_0m4qhI?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
 
 10. [Meta SQL Interview Question - A Step-By-Step Solution](https://youtu.be/Q-3wvYInCeI?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
+
+11. [DoorDash Data Science SQL Interview Question Walkthrough](https://youtu.be/DmUR2QSNUq8?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
