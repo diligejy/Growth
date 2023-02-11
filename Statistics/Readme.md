@@ -33,3 +33,5 @@
 
 11. [통계검정에서 정규성검정 꼭 필요할까? | t test | AB Test | 데이터분석](https://youtu.be/JXD9dKIU67M)
     - [Lecture Note](./Note/Statistical_Test_Normality_Test.md)
+
+12. [기하평균에 대하여 - 계산법, 직관적 의미](https://youtu.be/HOJ75Pszufo)
