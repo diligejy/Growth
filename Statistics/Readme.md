@@ -35,3 +35,5 @@
     - [Lecture Note](./Note/Statistical_Test_Normality_Test.md)
 
 12. [기하평균에 대하여 - 계산법, 직관적 의미](https://youtu.be/HOJ75Pszufo)
+
+13. [조화평균의 의미 - 계산법, 직관적 의미에 대하여](https://youtu.be/llK4YBiv4uc)
