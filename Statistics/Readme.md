@@ -37,3 +37,7 @@
 12. [기하평균에 대하여 - 계산법, 직관적 의미](https://youtu.be/HOJ75Pszufo)
 
 13. [조화평균의 의미 - 계산법, 직관적 의미에 대하여](https://youtu.be/llK4YBiv4uc)
+
+
+14. [r값과 공차한계 그리고 분산팽창지수의 연관성](https://youtu.be/0hkxiQnHOmE)
+    - [Lecture Note](./Note/R_N_Tolerance_Limits_VIF.md)
