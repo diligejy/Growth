@@ -39,5 +39,5 @@
 13. [조화평균의 의미 - 계산법, 직관적 의미에 대하여](https://youtu.be/llK4YBiv4uc)
 
 
-14. [r값과 공차한계 그리고 분산팽창지수의 연관성](https://youtu.be/0hkxiQnHOmE)
-    - [Lecture Note](./Note/R_N_Tolerance_Limits_VIF.md)
+14. [10-5 R2를 어떻게 해석해야 할까 - 회귀분석 (5) -](https://youtu.be/__SRJAPvR_k)
+    - [Lecture Note](./Note/R_Sqaure_Mean.md)
