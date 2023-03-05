@@ -18,3 +18,5 @@
 9. ["누구나 쉽게 개발자가 될 수 있다"는 말의 함정](https://youtu.be/oR8e_-KyhDk)
 
 10. [[데이터야놀자2022] Do Not Go Gentle into that SQL: SQL 강의가 말하지 않는 데이터 분석의 A to Z - 플래터님](https://youtu.be/O0O5E1fEPr0)
+
+11. [데이터 과학을 공부하고 싶지만, 수학, 통계, 코딩이 어렵다고 느낀다면](https://youtu.be/t8IgIdNNSLI)

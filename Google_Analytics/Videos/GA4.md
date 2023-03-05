@@ -15,3 +15,5 @@
 
 7. [Standard Reports in Google Analytics 4 (Lesson 4)](https://youtu.be/T1wtODAOtHc)
     - [Note](./Notes/Standard_Report_In_GA4.md)
+
+8. [브랜드 마케팅은 성과 측정할수 있을까? | 구글 애널리틱스 4 데이터 분석](https://youtu.be/Fc5MxB27Hew)

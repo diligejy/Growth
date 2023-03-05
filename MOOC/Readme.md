@@ -1,0 +1,1 @@
+1. [[Lecture series] 포드가 세계 최초 대중적인 차 ‘모델 T’를 생산할 수 있었던 이유? BA(바)로 이것! I 윤태중 교수](https://youtu.be/NcVOKOZP72Y)
