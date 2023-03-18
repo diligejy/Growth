@@ -15,3 +15,6 @@
     - [Note](./Note/How_Do_Consulting_Firms_Work.md)
 
 7. [TALK LIKE A CONSULTANT - MECE principle explained](https://youtu.be/N2oPgRLX8nU)
+
+8. [M&A Case Interview: A Messi Decision (a BCG Case)](https://youtu.be/bNJr9mui0aA)
+    - [Lecture Note](./Note/M_n_A_Case_Interview_Messi_Decision.md)

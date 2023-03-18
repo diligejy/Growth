@@ -41,3 +41,9 @@
 
 14. [10-5 R2를 어떻게 해석해야 할까 - 회귀분석 (5) -](https://youtu.be/__SRJAPvR_k)
     - [Lecture Note](./Note/R_Sqaure_Mean.md)
+
+15. [10-2 결과표를 해석하자 - 회귀분석 (2) -](https://youtu.be/XhC1RQimW-g)
+    - [Lecture Note](./Note/OLS_Result.md)
+
+16. [파이썬 OLS Regression Results 정보의 이해](https://youtu.be/87aGAIqUSQ4)
+    - [Lecture Note](./Note/Python_OLS_Results.md)
