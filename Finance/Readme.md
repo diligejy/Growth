@@ -8,3 +8,7 @@
     - [Template](https://docs.google.com/spreadsheets/d/1261zpKlxPF3PNpq3SWoheJK1a089JSAoY49iJbMG-7E/edit?usp=share_link)
 
 4. [Unit Economics for a Startup - Part 1](https://youtu.be/ElEFvoZg6Uk)
+
+5. [How to Build a Leveraged Buyout (LBO) Model in 5 Steps! (FREE Excel Included)](https://youtu.be/zeCfu5g0Uis)
+    - [Template](./Excel_File/LBO_Template.xlsx)
+    - [Lecture Note](./Note/How_To_Build_LBO_Model.md)
