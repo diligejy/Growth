@@ -1,0 +1,1 @@
+While supply functions tend to reveal information about an entire market, demand functions can help individual firms analyze their pricing options. 
