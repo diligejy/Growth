@@ -18,3 +18,6 @@
 
 8. [M&A Case Interview: A Messi Decision (a BCG Case)](https://youtu.be/bNJr9mui0aA)
     - [Lecture Note](./Note/M_n_A_Case_Interview_Messi_Decision.md)
+
+9. [Cluttered Slides Solution - One Message Per Slide](https://youtu.be/8_DyShheynM)
+    - [Lecture Note](./Note/Clutted_Slides_Solution_One_Message_Per_Slide.md)
