@@ -1,0 +1,1 @@
+1. [엑셀을 활용한 정량 사업계획 수립](https://youtu.be/WqxWirkuaos)

@@ -1,0 +1,1 @@
+1. [Top Excel Shortcuts For Finance and Modeling From an Ex-JP Morgan Investment Banking Analyst!](https://youtu.be/oDjhg57XH-A)
