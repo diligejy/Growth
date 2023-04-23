@@ -4,15 +4,15 @@ It's more important to have a clear concise message.
 
 The way you convey your message on a slide is by putting it in slide header.
 
-<img src="../Capture/Consulting_Presentation_Slides_1.jpg">
+<img src="../Img/Consulting_Presentation_Slides_1.jpg">
 
 ## 2. Effective Action Title 
 
-<img src="../Capture/Consulting_Presentation_Slides_2.jpg">
+<img src="../Img/Consulting_Presentation_Slides_2.jpg">
 
 ## 3. Exercise : What would be good title?
 
-<img src="../Capture/Consulting_Presentation_Slides_3.JPG">
+<img src="../Img/Consulting_Presentation_Slides_3.JPG">
 
 1. Global Widget Market Share
 2. Company A is the market leader
@@ -21,7 +21,7 @@ The way you convey your message on a slide is by putting it in slide header.
 
 ## 4. Exercise : What would be good title?
 
-<img src="../Capture/Consulting_Presentation_Slides_4.JPG">
+<img src="../Img/Consulting_Presentation_Slides_4.JPG">
 
 1. Company revenue 
 2. Company revenue growth CAGR

@@ -2,22 +2,7 @@
 
 2. [프로젝트 논리 구조 확장과 보고서 장표와의 연계](https://www.youtube.com/watch?v=Mt8OEwEv-KE&ab_channel=%EC%BB%A4%EB%84%A5%ED%8C%85%EB%8B%B7TV)
 
-3. [TALK LIKE A CONSULTANT - Top down communication explained (management consulting skills)](https://youtu.be/ppokRtCeuyI?list=PLO9mZ8x4h8C5cLqrfbU_HPKgb_650BSC0)
-    - [Note](./Note/Top_Down_Communication.md)
 
-4. [Create Management Consulting Presentations: Presentation Story & Structure (Ex-Bain Manager)](https://youtu.be/NFigd6xh9U4?list=PLJEhs6oIaUU7IhXaIShuVi0R7i_E2nd7j)
-    - [Note](./Note/Create_Management_Consulting_Presentations.md)
-
-5. [Consulting Presentation Slides: Slide Message & Action Titles (Bain & Company, BCG, McKinsey)](https://youtu.be/3pLhyrra16w?list=PLJEhs6oIaUU7IhXaIShuVi0R7i_E2nd7j)
-    - [Note](./Note/Consulting_Presentation_Slides_Slides_Message_Action_Titles.md)
-
-6. [HOW TO SOLVE PROBLEMS - How do consulting firms work (hypothesis-based problem solving explained)](https://youtu.be/TBvJzXxRuxs)
-    - [Note](./Note/How_Do_Consulting_Firms_Work.md)
-
-7. [TALK LIKE A CONSULTANT - MECE principle explained](https://youtu.be/N2oPgRLX8nU)
-
-8. [M&A Case Interview: A Messi Decision (a BCG Case)](https://youtu.be/bNJr9mui0aA)
+3. [M&A Case Interview: A Messi Decision (a BCG Case)](https://youtu.be/bNJr9mui0aA)
     - [Lecture Note](./Note/M_n_A_Case_Interview_Messi_Decision.md)
 
-9. [Cluttered Slides Solution - One Message Per Slide](https://youtu.be/8_DyShheynM)
-    - [Lecture Note](./Note/Clutted_Slides_Solution_One_Message_Per_Slide.md)
