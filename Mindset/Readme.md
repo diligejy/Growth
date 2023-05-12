@@ -20,3 +20,13 @@
 10. [[데이터야놀자2022] Do Not Go Gentle into that SQL: SQL 강의가 말하지 않는 데이터 분석의 A to Z - 플래터님](https://youtu.be/O0O5E1fEPr0)
 
 11. [데이터 과학을 공부하고 싶지만, 수학, 통계, 코딩이 어렵다고 느낀다면](https://youtu.be/t8IgIdNNSLI)
+
+12. [좌뇌 우뇌가 골고루 열일하면 이렇게 됩니다 [EBR 정병익] 4/4](https://youtu.be/zSzHaVTZiUA)
+
+13. [회사에서 일하기도 바쁜데 공부까지 하라는 이유 [EBR 정권택] 3/4 ](https://youtu.be/t7hjrS_-3rI)
+
+14. [프로는 어떤 시합이든 이기려고 하는 것이다](https://youtu.be/GlSvRpmOcAQ)
+
+15. [막내 사원이 최연소 대표가 되어 돌아보는 23년 커리어 | 한국P&G 이지영](https://youtu.be/co1XxpfaG7g)
+
+16. [[책이벤트] 권고사직을 성장의 좋은 기회로 만드는 비결 | 김경민 가인지컨설팅그룹 대표 | #직장인 #자기계발 #성공](https://youtu.be/OZzt5b9D16g)
