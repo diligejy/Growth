@@ -1,0 +1,1 @@
+1. [Redesigning beautiful charts to look like McKinsey slides](https://youtu.be/MuSSeIE3Og8)
