@@ -2,3 +2,6 @@
     - [Lecture Note](./Note/%EC%97%91%EC%85%80%EB%B3%B4%EA%B3%A0%EC%84%9C_5%EA%B0%80%EC%A7%80_%EC%9B%90%EC%B9%99.md)
 
 2. [엑셀 차트의 모든 것! 실무에서 쓰이는 차트, 5가지만 기억하세요! | 상황별 차트 사용법](https://youtu.be/TDY83es73Ms)
+
+3. [엑셀 함수 "자동완성" 기능! 드디어 공개되었습니다 | 이제 Ai가 함수도 만들어주네요..ㄷㄷ; ](https://youtu.be/fssCtbTYLWk)
+
