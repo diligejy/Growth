@@ -27,7 +27,7 @@
 ### 4-2 Uber
 1. 지금 이 지역에 드라이버가 몇 명이고 지금 이 앱을 켜고 주문을 하는 소비자가 얼마나 많은지에 따라서 순식간에 가격이 결정이 됨
 
-    <img src="./Img/US_Tech_Pricing_Policy_1.jpg">
+    <img src="../Img/US_Tech_Pricing_Policy_1.jpg">
 
 2. Surge Pricing을 도입함으로써 가격이 달라짐
 
@@ -48,19 +48,19 @@
 1. 꼭 그렇진 않음
     - 최근 경제학계에서 논쟁임
     - 차이를 두긴 두는데 가격 차이가 크지 않은 곳도 있음
-    <img src="./Img/US_Tech_Pricing_Policy_2.jpg">
+    <img src="../Img/US_Tech_Pricing_Policy_2.jpg">
 
 2. 아이스크림은 여름철에 비싸게 & 겨울철에 비싸게 파는걸까?
     - 오히려 성수기에 가격이 내려감
 
-        <img src="./Img/US_Tech_Pricing_Policy_3.jpg">
+        <img src="../Img/US_Tech_Pricing_Policy_3.jpg">
 
     - 왜 그런지 연구해보니 기업들은 비용변화에 따라서는 가격 변화를 굉장히 많이 시킴
 
-        <img src="./Img/US_Tech_Pricing_Policy_4.jpg">
+        <img src="../Img/US_Tech_Pricing_Policy_4.jpg">
 
     - 비수기에도 아이스크림/아이스아메리카노(얼죽아)를 사는 사람들이 사는 사람은 지불 의향이 높은 사람인 경우가 많음
-        <img src="./Img/US_Tech_Pricing_Policy_5.jpg">
+        <img src="../Img/US_Tech_Pricing_Policy_5.jpg">
     - 성수기에는 사람들이 가격에 민감한 것처럼 보이고 비수기에는 덜 민감한것처럼 보임
 
 ### 5. 기업이 수익성을 높이기 위해 쓰는 또 다른 가격 책정 전략이 있나?
