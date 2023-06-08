@@ -17,3 +17,5 @@
     - [Note](./Notes/Standard_Report_In_GA4.md)
 
 8. [브랜드 마케팅은 성과 측정할수 있을까? | 구글 애널리틱스 4 데이터 분석](https://youtu.be/Fc5MxB27Hew)
+
+9. [What Is Organic Traffic In GA4 And How To Find It](https://youtu.be/qlih6oQCBB0)

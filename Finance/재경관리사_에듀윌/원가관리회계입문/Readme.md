@@ -1,0 +1,2 @@
+[재경관리사 원가관리회계 입문 1강｜원가관리회계 개요｜이원주 세무사｜에듀윌 재경관리사](https://youtu.be/ApgGPBT-fcA?list=PLIR6-ZSnPrFbcbf9uPxZ2H4JEycSbUB55)
+    - [Note](./Note/%EC%9B%90%EA%B0%80%EA%B4%80%EB%A6%AC%ED%9A%8C%EA%B3%84%EC%9E%85%EB%AC%B8_1%EA%B0%95.md)
