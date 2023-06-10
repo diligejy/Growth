@@ -1,0 +1,1 @@
+1. [Thematic Program on Stochastic Modeling: A Focus on Pricing & Revenue Management](https://youtube.com/playlist?list=PLT7UzLaEBL93vd335Vj9ObYWB4sv3eEKO)
