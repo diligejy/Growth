@@ -1,0 +1,3 @@
+1. [강남언니에는 비즈니스 자가진단 키트가 있다](https://blog.gangnamunni.com/post/business-metric/)
+
+2. [내가 배달 서비스 데이터 분석가 라면, 어떤 흐름으로 지표를 선정할까?](https://velog.io/@h-go-getter/%EB%82%B4%EA%B0%80-%EB%B0%B0%EB%8B%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80-%EB%9D%BC%EB%A9%B4-%EC%96%B4%EB%96%A4-%ED%9D%90%EB%A6%84%EC%9C%BC%EB%A1%9C-%EC%A7%80%ED%91%9C%EB%A5%BC-%EC%84%A0%EC%A0%95%ED%95%A0%EA%B9%8C)
