@@ -1,0 +1,1 @@
+1. [Finance Case Study Example | Finance Interview Technical Questions](https://youtu.be/qURd_jDrQsI)

@@ -1,0 +1,1 @@
+[Financial Modeling with Python and Excel](https://www.youtube.com/watch?v=xL0Wo14Hqbk&list=PLACKX9tziAQJSk4YSGN0N2II985HTIuHD&index=1&ab_channel=NickDeRobertis)
