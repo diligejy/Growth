@@ -1,0 +1,1 @@
+1. [What is "STRATEGY"? A former strategy consultant breaks it down in less than five minutes](https://youtu.be/otrYsEU3ctk)
