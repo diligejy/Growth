@@ -1,0 +1,1 @@
+1. [Pricing Analytics](https://lobsterland.net/10-pricing-analytics/)
