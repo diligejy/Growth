@@ -1,0 +1,1 @@
+1. [Warren Buffett: Just Looking At The Price Is Not Investing | CNBC](https://youtu.be/Qm0jktMIYlk)
