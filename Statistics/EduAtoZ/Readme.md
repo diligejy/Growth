@@ -1,0 +1,2 @@
+1. [[230120 교체][ADsP 3과목 24] 연속적 확률분포 - 균등분포, F분포](https://youtu.be/_Ag7PZfGDu4)
+    - [Lecture Note](./Note/%EC%97%B0%EC%86%8D%ED%99%95%EB%A5%A0%EB%B6%84%ED%8F%AC_%EA%B7%A0%EB%93%B1%EB%B6%84%ED%8F%AC_F%EB%B6%84%ED%8F%AC.md)
