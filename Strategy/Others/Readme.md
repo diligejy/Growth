@@ -1,0 +1,1 @@
+1. [Best marketing strategy ever! Steve Jobs Think different / Crazy ones speech (with real subtitles)](https://youtu.be/keCwRdbwNQY)
