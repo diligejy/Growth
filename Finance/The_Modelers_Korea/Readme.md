@@ -5,3 +5,5 @@
 
 3. [[Modelling 101] 4.2. Financial Model이 쪼개면 쪼갤수록 정교해지는 이유](https://youtu.be/84mL1QsJYDg)
     - [Note](./Note/Modeling_101_4_2_Financial_Model이_쪼개면_쪼갤수록_정교해지는이유.md)
+
+4. [[금융권실무 101] #3.1. 주가차트 그리기 1편 (Feat. 무상증자, Rebase)](https://youtu.be/pY-cLkogJko?t=84)
