@@ -1,0 +1,1 @@
+1. [Books you must read as a young strategy consultant](https://youtu.be/dt8XiOumZaA)

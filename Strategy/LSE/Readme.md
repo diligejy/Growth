@@ -1,0 +1,1 @@
+1. [What are Global Value Chains and why they matter for economic & regional development | LSE Research](https://youtu.be/_sY8nbtDTTY)

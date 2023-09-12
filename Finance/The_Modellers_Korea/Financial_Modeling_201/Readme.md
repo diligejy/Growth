@@ -16,3 +16,9 @@
 5. [[재무모델링 301] IPO 투자설명서 분석을 통한기업 Valuation 공부하기(Feat. LG에너지솔루션)](https://youtu.be/vvgQRmj3Y7c?list=PLmHBSGOPOpUPUIWTu1nCSU7D9EnRwmeew)
 
 6. [[재무모델링 301] DART에서 Raw Data 추출하기 (Feat. 셀트리온)](https://youtu.be/TfeG93KVWg0)
+
+7. [[Modelling 201] 기업가치평가(Valauation) 이란 무엇인가?](https://youtu.be/Amq4iHQ-QJY)
+    - [Note](./Note/기업가치평가란_무엇인가.md)
+
+8. [[Modelling 201] 3.1. DCF Valuation - 화폐의 시간가치 이해하기](https://youtu.be/ddILMHfF_Rk)
+    - [Note](./Note/3_1_DCF_Valuation_화폐의_시간가치.md)
