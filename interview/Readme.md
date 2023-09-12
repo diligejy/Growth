@@ -29,3 +29,5 @@
 10. [Meta SQL Interview Question - A Step-By-Step Solution](https://youtu.be/Q-3wvYInCeI?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
 
 11. [DoorDash Data Science SQL Interview Question Walkthrough](https://youtu.be/DmUR2QSNUq8?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX)
+
+12. [[서울대학교 경영전략학회 MCSA] Business Case Interview 면접 시뮬레이션](https://youtu.be/sZfhMIKjcmI)

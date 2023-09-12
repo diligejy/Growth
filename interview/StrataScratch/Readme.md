@@ -1,0 +1,1 @@
+1. [Python Projects For Your Data Science Portfolio](https://www.youtube.com/playlist?list=PLv6MQO1ZzdmrizwpS3S9DJBLQut4j1-ei)
