@@ -5,11 +5,11 @@ import openai
 from fastapi import Request, FastAPI
 
 # OpenAI API KEY
-API_KEY = "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"
+API_KEY = ""
 openai.api_key = API_KEY
 
 # Telegram API KEY
-BOT_TOKEN = "6601754460:AAGywwpMd9lhwySd9UnRsdVZgo5RMjoPKlA"
+BOT_TOKEN = ""
 
 ###### 서버 생성 단계 #####
 
