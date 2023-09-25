@@ -106,7 +106,7 @@ malthus <- sub %>% left_join(sub_crop, by = c("year" = "year", "period" = "perio
 
 ## 2. 인구와 밀생산 자료를 표준화
 malthus$center.pop <- center(malthus$Population) 
-malthus$center.wheat <- cneter(malthus$wheat_yield)
+malthus$center.wheat <- center(malthus$wheat_yield)
 
 ## 3. ggplot을 이용한 시각화
 ggplot(malthus, aes(x=year, y=center.pop)) + 
