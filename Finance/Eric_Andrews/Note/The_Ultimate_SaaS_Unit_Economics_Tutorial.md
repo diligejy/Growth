@@ -21,3 +21,8 @@ Per Customer
 
 ## 3. Simple LTV formula
 
+## 4. CAC for SaaS
+
+## 5. LTV:CAC Ratio
+
+## 6. CAC Payback Period + Benchmark
