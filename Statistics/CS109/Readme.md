@@ -1,0 +1,1 @@
+1. [Stanford CS109 Probability for Computer Scientists](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=hLLup5lbuX4YmovO)
