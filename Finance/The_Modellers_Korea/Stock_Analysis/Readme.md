@@ -1,0 +1,1 @@
+1. [[Stock Analysis] 무리한 인수금융이 순이익에 악영향을 주는 경우 (Feat. 넷마블)](https://youtu.be/CoRH2bJE4D0)
