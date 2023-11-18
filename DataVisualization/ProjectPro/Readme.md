@@ -1,0 +1,1 @@
+1. [Discover The SQRT Function In Tableau](https://youtu.be/Nlm32bP_8zg)

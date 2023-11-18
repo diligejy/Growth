@@ -1,0 +1,1 @@
+1. [PPT만 쓰시는 분은 없잖아요, 피피티 기본, PPT 강의](https://youtu.be/Rx0iQewMJ9E)
