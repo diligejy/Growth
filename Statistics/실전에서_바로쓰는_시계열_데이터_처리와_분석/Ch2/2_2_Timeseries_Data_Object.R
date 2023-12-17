@@ -75,4 +75,4 @@ set.seed(345)
 x <- data.frame(date=as.Date("2008-01-01") + 0:9, id=1:10, x1=rnorm(10), x2=rep("a", 10))
 as_tsibble(x, key=id, index=date)
 # key값은 id로 생략
-as_tsibble(x, index=date)
+as_tsibble(x, index=date) 

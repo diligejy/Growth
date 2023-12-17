@@ -1,0 +1,47 @@
+##### 2-3-1 Excel file
+
+library(readxl)
+library(dplyr)
+library(xts)
+if(!require(tsibble)){
+  install.packages("tsibble")
+  library(tsibble)
+}
+# col_type 으로 데이터 타입을 미리 알려주지 않으면 엉뚱한 데이터가 들어올 수 있으므로 주의
+students.all <- read_excel("./students.xlsx", skip=16, na='-', sheet=1, 
+                           col_types=c("text", "text", "numeric", "numeric", "numeric", 
+                                       "numeric", "numeric", "numeric", 
+                                       "numeric", "numeric", "numeric", "numeric"
+                                       , "numeric", "numeric", "numeric", "numeric", "numeric", "numeric"))
+students <- students.all %>%
+    filter(지역규모 == '계') %>% select(-지역규모)
+
+head(students)
+
+# 불러들인 데이터는 데이터 프레임으로 저장됨 
+# 데이터 프레임도 시계열 객체를 담아 사용할 수 있는데, 이를 위해서는 반드시 시간 인덱스로 사용할 칼럼이 필요 
+# 불러들인 데이터에서 시간 인덱스로 사용할 수 있는 컬럼은 '연도' 컬럼. 이 컬럼을 date 컬럼으로 변환
+students$연도 <- as.Date(paste0(students$연도, '-01-01'))
+
+# 연도 컬럼을 date 클래스로 변환한 데이터 프레임을 사용하여 ts, xts, tsibble 시계열 데이터로 변환.
+# 주의해야 할 사항은 각각의 클래스로 변환하는 함수 명이 다르다는 것 
+students.ts <- ts(students, frequency=1, start=1999)
+students.xts <- as.xts(students[, -1], order.by = students$연도)
+students.tsibble <- students %>%
+    mutate(연도 = yearmonth(paste0(students$연도, '-01-01')))
+
+students.tsibble <- as_tsibble(students.tsibble, index = 연도)
+
+
+##### 2-3-2 CSV 파일
+
+# KOSIS 경제활동 인구조사 - 산업별 취업자수 - 월간 취업자수와 교육서비스업 취업자수 데이터 
+# bit.ly/3p740zZ
+# 2013.01 ~ 2020.20
+employees <- read.csv('./산업별_취업자_20210206234505.csv', header = TRUE, na = '-', strip.white = TRUE, stringsAsFactors = TRUE, fileEncoding = "CP949", encoding = "UTF-8"
+)
+colnames(employees) <- c("time", 'total', 'employees.edu')
+employees
+employees$time <- as.Date(paste0(employees$time, '. 01'), format = '%Y. %m. %d')
+employees
+
