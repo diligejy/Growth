@@ -1,0 +1,1 @@
+1. [삼성SDS 로딩 옵티마이저(Loading Optimizer)로 적재 최적화하고 물류비용 절감하세요](https://youtu.be/8rR1l-b6Z30)
