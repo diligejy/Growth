@@ -1,0 +1,1 @@
+1. [유통에 생성형AI가 어떻게 붙을지는 월마트를 보라](https://youtu.be/C8dG-idnPiU)
