@@ -1,0 +1,1 @@
+1. ['감독님의 문단속' 제가 잠시 드릴 말씀이... '김성근 감독님' ㅣ#스톡킹 EP.93-8 (김광수 편) ](https://youtu.be/14nAkb3khxQ?si=zvJasWNKP6nGqz0l)
