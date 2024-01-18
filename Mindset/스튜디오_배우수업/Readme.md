@@ -1,0 +1,1 @@
+1. [[배우수업] 스타니슬랍스키 배우수업, 제 1장 '첫 시험'](https://youtu.be/mtBxdyg4t_A?list=PLAEix9DG6aEAJtzQv3_JU15EIjIc3KyhT)
