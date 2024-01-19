@@ -6,4 +6,7 @@
 3. [[확률과통계 기초] 1-2. 사건](https://youtu.be/a1Z0bt-Ahu8?list=PLmljWRabIwWBNjA5e6-qOVeB4BaY0Sima)
     - [Note](./Note/1_2_사건.md)
 
+4. [[확률과통계 기초] 1-3. 시행,표본공간,사건 한눈에보기](https://youtu.be/kSmVUG3PNKo?list=PLmljWRabIwWBNjA5e6-qOVeB4BaY0Sima)
+    - [Note](./Note/1_3_시행_표본공간_사건_한눈에보기.md)
+
 4. [[확률과통계 기초] 3-12. 이항분포에서 '이항' 이 무슨 뜻일까 ](https://youtu.be/VW5aDYBEjxk?si=sQoDNdA7nhxp_sLN)
