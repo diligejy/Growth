@@ -1,0 +1,1 @@
+1. [베이즈 정리를 이해하는 가장 쉬운 방법](https://youtu.be/Y4ecU7NkiEI)
