@@ -1,0 +1,1 @@
+1. [확률변수, 코딩으로 만들기 (직관적 이해) #10분통계](https://youtu.be/7-QX5tNshxE?list=PLKtLBdGREmMmD1303GHKYR9NhQXqkzcD_)
