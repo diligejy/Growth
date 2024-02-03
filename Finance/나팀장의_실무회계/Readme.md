@@ -1,0 +1,1 @@
+1. [기업가치평가 재무상태표 vs 손익계산서 ](https://youtu.be/Ttwn8zv4Dsw)
