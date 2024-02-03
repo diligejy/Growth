@@ -1,0 +1,1 @@
+1. [절대 직장 내 갈등 있을때 갑자기 퇴사하면 안되는 이유](https://youtu.be/ofvqoeWEnV0)
