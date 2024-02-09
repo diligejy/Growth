@@ -1,0 +1,1 @@
+1. [What Is a Supply Chain Analyst? - Responsibilities, Career Path & Skills](https://youtu.be/pFOVUWaAQaA)
