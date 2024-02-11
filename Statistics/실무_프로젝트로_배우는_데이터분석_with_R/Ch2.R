@@ -196,3 +196,8 @@ Audi19_5 = Audi19_3 %>%
     distinct(Unique_Key, Unique_Key2, .keep_all = TRUE)
 
 dim(Audi19_5)
+
+### 2.13 dplyr 활용 응용
+
+P1 = Audi %>%
+    muy
