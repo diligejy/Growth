@@ -1,0 +1,1 @@
+1. [자존감에 의외로 중요한 2가지! [자존감 총정리]](https://youtu.be/bKQlWBuGXwE)
