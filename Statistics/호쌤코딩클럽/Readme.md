@@ -5,3 +5,6 @@
 
 3. [[메가IT-데이터분석] 24/01/30 - 변수간의 차이 분석 - (1) 신뢰구간](https://youtu.be/GWIiihuQkN4)
     - [Jupyter File](./Note/02_변수간의차이분석_신뢰구간.ipynb)
+
+4. [[메가IT-데이터분석] 24/01/30 - 변수간의 차이 분석 - (3) 단일 표본 T검정](https://youtu.be/d0VCCPpSRkA)
+    - [Jupyter File](./Note/04_변수간의차이분석_단일표본T검정.ipynb)
