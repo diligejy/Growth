@@ -11,3 +11,6 @@
 
 5. [[메가IT-데이터분석] 24/01/31 - 변수간의 차이 분석 - (4) 독립 표본 T검정](https://youtu.be/2hicOKe3ikk)
     - [Jupyter File](./Note/05_변수간의차이_독립표본T검정.ipynb)
+
+6. [[메가IT-데이터분석] 24/01/31 - 변수간의 차이 분석 - (5) 대응 표본 T검정](https://youtu.be/LRRBCQwPeas)
+    - [Jupyter File](./Note/06_변수간의차이_대응표본T검정.ipynb)
