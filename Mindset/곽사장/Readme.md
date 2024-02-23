@@ -1,0 +1,1 @@
+1. [쪽팔렸지만 일용직 잡부부터 다시 시작한 이유](https://youtu.be/QIHocYSCxfI)
