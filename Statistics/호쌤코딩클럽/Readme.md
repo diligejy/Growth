@@ -14,3 +14,6 @@
 
 6. [[메가IT-데이터분석] 24/01/31 - 변수간의 차이 분석 - (5) 대응 표본 T검정](https://youtu.be/LRRBCQwPeas)
     - [Jupyter File](./Note/06_변수간의차이_대응표본T검정.ipynb)
+
+7. [[메가IT-데이터분석] 24/02/01 - 변수간의 차이 분석 - (6) 연구과제 풀이](https://youtu.be/-Xvmnl6XP6I)
+    - [Jupyter File](./Note/07_변수간의차이_분석_연구과제풀이.ipynb)
