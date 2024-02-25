@@ -1,0 +1,1 @@
+1. [조건부확률: 베이지안 이론](https://youtu.be/roQRZ8o32_I)

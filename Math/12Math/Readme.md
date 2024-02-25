@@ -1,0 +1,1 @@
+1. [인생에 꼭 필요한 수학 스킬!](https://youtu.be/C3Sdc_7e5Og)

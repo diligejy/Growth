@@ -7,3 +7,6 @@
     - [Note](./Note/자존감_높은_사람은_의외로_이렇게_말합니다.md)
 
 4. [내 입장만 생각해야 하는 이유! ㅣ인간관계 갈등ㅣ](https://youtu.be/xrRgbu6-LIA)
+
+5. [싫은 사람과 지낼 때 반드시 해야 할 것](https://youtu.be/Zc_O2GF5ksQ)
+    - [Note](./Note/싫은_사람과_지낼때_반드시_해야할_것.md)

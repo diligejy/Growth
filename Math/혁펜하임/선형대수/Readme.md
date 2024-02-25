@@ -1,0 +1,1 @@
+1. [[선대] 9-3강. 촐레스키 분해 (Cholesky decomposition)](https://youtu.be/Xfhe391LrvA)
