@@ -13,3 +13,5 @@
 
 6. [과거에 집착하고 눈치 보는 것도 자존감과 관련이 될까?](https://youtu.be/SEKbzfZLSIk)
     - [Note](./Note/과거에_집착하고_눈치보는_것도_자존감과_관련이_될까.md)
+
+7. [자존감과 자기조절감 [감정조절3]](https://youtu.be/h8oIGwwUUn4)
