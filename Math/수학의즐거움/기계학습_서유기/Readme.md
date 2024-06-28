@@ -1,0 +1,1 @@
+1. [[기계학습-서유기] 0. 오리엔테이션, 누구도 참여할 수 있도록 하는 기계학습 스터디의 구체적 공부 방식에 대한 디스커션](https://youtu.be/5BDISRVmlMU?list=PL4m4z_pFWq2o4bREDLH2XPEL_ggu_6L6o)
