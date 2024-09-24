@@ -1,0 +1,1 @@
+1. [평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅](https://youtu.be/kdt5J2bpchM)

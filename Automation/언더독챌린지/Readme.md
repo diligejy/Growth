@@ -1,0 +1,1 @@
+1. [해외 자동화툴 zapier vs make vs ifttt vs n8n 간단 비교](https://youtu.be/AxfOd0o5xeQ)
