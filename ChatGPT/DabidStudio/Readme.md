@@ -1,0 +1,1 @@
+1. [코딩 몰라도 AI로 MBTI 앱 만들기](https://youtu.be/8M0sd9rjkMg)
