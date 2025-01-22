@@ -1,0 +1,1 @@
+1. [빌딩풍이 부는 이유?? 베르누이 정리!! [다소과학 @서울시립과학관]](https://youtu.be/lwVHjUsParU?si=x6gbSDmrI-StA3Jk)
