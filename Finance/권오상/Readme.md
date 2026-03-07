@@ -1,0 +1,1 @@
+1. [[Dart&SEC] AI부터 반도체까지, 재무제표로 보는 진짜 흐름](https://youtu.be/knPXsAB0dBA)
