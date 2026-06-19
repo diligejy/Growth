@@ -48,3 +48,15 @@
 
 
     <img src="../Img/01_Causal_Inference_Question_of_Why_03.png">
+
+- Randomization (랜덤화 추출): Multi-Armed Bandit (MAB)
+
+    - AB 테스트는 탐색-수확 Tradeoff가 존재 -> MAB는 강화학습 기반으로 탐색과 활용을 최적화하여 수익률을 극대화
+
+    - 탐색(Exploration) 관점
+
+        - 모든 Bandit Machine 계속 당겨보자 (A가 더 좋아보이는데 혹시 모르니 B도 테스트) -> 예상대로 A가 좋았다 -> 비용 발생!
+
+    - 활용(Exploitation) 관점
+
+        - 모든 Bandit Machine을 한 두 번만 당겨보고 가장 수익률이 높은 머신을 선택 -> 신뢰성 문제 -> 만약 테스트를 더 오래하면?
