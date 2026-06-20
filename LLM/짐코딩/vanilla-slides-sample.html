@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vanilla Slides Sample</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; overflow: hidden; }
+  body {
+    font-family: 'Noto Sans KR', 'Inter', sans-serif;
+    background: #0b0a08;
+  }
+
+  .deck {
+    position: fixed; inset: 0;
+    background: #0b0a08;
+  }
+
+  .viewport {
+    position: relative;
+    width: 100vw;
+    height: 100dvh;
+    background: #0b0a08;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6vh 8vw;
+    opacity: 0; visibility: hidden;
+    transform: translate3d(0,0,0);
+    color: #ECE1C8;
+  }
+  .slide.present { opacity: 1; visibility: visible; z-index: 2; }
+  .slide.past     { transform: translate3d(-100%,0,0); z-index: 1; }
+  .slide.future   { transform: translate3d(100%,0,0); z-index: 1; }
+
+  .slide-content { width: 100%; max-width: 680px; }
+
+  .slide h1 { font-size: 2.6rem; margin: 0 0 1.2rem; color: #C6A55C; }
+  .slide p, .slide li { font-size: 1.15rem; color: #ECE1C8; line-height: 1.6; }
+
+  .fragment {
+    opacity: 0; transform: translateY(16px);
+    transition: opacity .4s ease, transform .4s ease;
+  }
+  .fragment.visible { opacity: 1; transform: none; }
+
+  .code-block {
+    background: #161310; color: #ECE1C8; padding: 1.2rem;
+    border-radius: 8px; font-size: .85rem; overflow: auto;
+    font-family: 'JetBrains Mono', monospace;
+    border: 1px solid rgba(198,165,92,.25);
+  }
+  .code-block .line { display:block; opacity:.4; transition: opacity .3s, background-color .3s; padding:0 .5em; }
+  .code-block .line.highlight { opacity:1; background-color: rgba(198,165,92,.18); }
+
+  .notes { display: none; }
+
+  .hud {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    display: flex; align-items: center; gap: 12px;
+    padding: 6px 12px; font-size: 12px; color: #C6A55C;
+    z-index: 3;
+  }
+  #progress-track { flex: 1; height: 4px; background: rgba(198,165,92,.15); }
+  #progress { height: 100%; width: 100%; background: #C6A55C; transform-origin: left; transform: scaleX(0); transition: transform .25s ease; }
+</style>
+</head>
+<body>
+
+<main class="deck">
+  <div class="viewport" id="viewport">
+
+    <section class="slide present" data-step-max="0">
+      <div class="slide-content">
+        <h1>바닐라 슬라이드 데모</h1>
+        <p>외부 라이브러리 없이 만든 풀스크린 프레젠테이션</p>
+        <aside class="notes">발표자만 보는 메모: 자기소개부터 시작.</aside>
+      </div>
+    </section>
+
+    <section class="slide future" data-step-max="2">
+      <div class="slide-content">
+        <h1>순차 등장 (Fragment)</h1>
+        <ul>
+          <li class="fragment" data-step="1">스페이스/오른쪽 화살표로 한 단계씩 등장</li>
+          <li class="fragment" data-step="2">같은 step 번호는 동시에 등장</li>
+          <li class="fragment" data-step="2">이렇게</li>
+        </ul>
+        <aside class="notes">fragment는 data-step 속성으로 제어됨.</aside>
+      </div>
+    </section>
+
+    <section class="slide future" data-step-max="0">
+      <div class="slide-content">
+        <h1>코드 줄 강조</h1>
+        <pre class="code-block"><code>function goTo(i) {
+  current = i;
+  render();
+}
+render();</code></pre>
+        <aside class="notes">3번째 줄(render 호출)을 강조 표시.</aside>
+      </div>
+    </section>
+
+  </div>
+
+  <div class="hud">
+    <span id="counter">1/3</span>
+    <div id="progress-track"><div id="progress"></div></div>
+  </div>
+</main>
+
+<script>
+(function () {
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  const total = slides.length;
+  let current = 0;
+  let step = 0;
+  let isAnimating = false;
+
+  const counterEl = document.getElementById('counter');
+  const progressEl = document.getElementById('progress');
+
+  // 코드 블록 줄 단위 래핑 (1회)
+  document.querySelectorAll('.code-block code').forEach(block => {
+    block.innerHTML = block.textContent.split('\n')
+      .map((l, i) => `<span class="line" data-line="${i + 1}">${escapeHtml(l)}</span>`)
+      .join('\n');
+  });
+  function escapeHtml(s) {
+    return s.replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  }
+  // 데모: 세 번째 슬라이드의 3번째 줄을 강조
+  const demoCodeLines = slides[2].querySelectorAll('.line');
+  if (demoCodeLines[2]) demoCodeLines[2].classList.add('highlight');
+
+  function maxStep(slide) {
+    return parseInt(slide.dataset.stepMax || '0', 10);
+  }
+
+  function showFragmentsUpTo(slide, n) {
+    slide.querySelectorAll('.fragment').forEach(el => {
+      const s = parseInt(el.dataset.step, 10);
+      el.classList.toggle('visible', s <= n);
+    });
+  }
+
+  function render() {
+    slides.forEach((s, i) => {
+      s.classList.remove('present', 'past', 'future');
+      if (i === current) s.classList.add('present');
+      else if (i < current) s.classList.add('past');
+      else s.classList.add('future');
+    });
+    showFragmentsUpTo(slides[current], step);
+    counterEl.textContent = `${current + 1}/${total}`;
+    progressEl.style.transform = `scaleX(${(current + 1) / total})`;
+    history.replaceState(null, '', `#${current + 1}`);
+  }
+
+  function animateTransition(nextIndex) {
+    if (isAnimating || nextIndex < 0 || nextIndex >= total || nextIndex === current) return;
+    isAnimating = true;
+    const dir = nextIndex > current ? 1 : -1;
+    const curEl = slides[current];
+    const nextEl = slides[nextIndex];
+
+    nextEl.style.visibility = 'visible';
+    nextEl.style.opacity = '0';
+    nextEl.style.transform = `translate3d(${dir * 100}%,0,0)`;
+
+    const anims = [
+      curEl.animate(
+        [{ transform: 'translate3d(0,0,0)', opacity: 1 },
+         { transform: `translate3d(${-dir * 100}%,0,0)`, opacity: 0 }],
+        { duration: 350, easing: 'ease', fill: 'forwards' }
+      ),
+      nextEl.animate(
+        [{ transform: `translate3d(${dir * 100}%,0,0)`, opacity: 0 },
+         { transform: 'translate3d(0,0,0)', opacity: 1 }],
+        { duration: 350, easing: 'ease', fill: 'forwards' }
+      )
+    ];
+
+    Promise.all(anims.map(a => a.finished)).then(() => {
+      current = nextIndex;
+      step = 0;
+      curEl.style.cssText = '';
+      nextEl.style.cssText = '';
+      render();
+      isAnimating = false;
+    });
+  }
+
+  function next() {
+    if (isAnimating) return;
+    const slide = slides[current];
+    if (step < maxStep(slide)) {
+      step++;
+      showFragmentsUpTo(slide, step);
+    } else {
+      animateTransition(current + 1);
+    }
+  }
+
+  function prev() {
+    if (isAnimating) return;
+    if (step > 0) {
+      step--;
+      showFragmentsUpTo(slides[current], step);
+    } else {
+      const target = current - 1;
+      if (target >= 0) {
+        const targetMax = maxStep(slides[target]);
+        animateTransition(target);
+        step = targetMax; // 이전 슬라이드로 갈 때는 마지막 fragment 상태로 진입
+      }
+    }
+  }
+
+  // 키보드
+  document.addEventListener('keydown', (e) => {
+    const el = document.activeElement;
+    const isEditable = el.isContentEditable || /input|textarea|select/i.test(el.tagName);
+    if (isEditable || e.ctrlKey || e.altKey || e.metaKey || e.repeat) return;
+
+    switch (e.key) {
+      case 'ArrowRight': case 'PageDown': case ' ':
+        e.preventDefault(); next(); break;
+      case 'ArrowLeft': case 'PageUp':
+        e.preventDefault(); prev(); break;
+      case 'Home': e.preventDefault(); animateTransition(0); break;
+      case 'End': e.preventDefault(); animateTransition(total - 1); break;
+    }
+  });
+
+  // 터치 스와이프
+  let touchStartX = 0, touchStartY = 0;
+  const SWIPE_THRESHOLD = 50;
+  document.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    touchStartY = e.changedTouches[0].screenY;
+  }, { passive: true });
+  document.addEventListener('touchend', (e) => {
+    const dx = e.changedTouches[0].screenX - touchStartX;
+    const dy = e.changedTouches[0].screenY - touchStartY;
+    if (Math.abs(dx) > SWIPE_THRESHOLD && Math.abs(dx) > Math.abs(dy)) {
+      dx < 0 ? next() : prev();
+    }
+  }, { passive: true });
+
+  // URL hash 복원 + 뒤로가기
+  window.addEventListener('popstate', () => {
+    const i = parseInt(location.hash.replace('#', ''), 10) - 1;
+    if (!isNaN(i)) { current = i; step = 0; render(); }
+  });
+
+  // 초기화
+  const initial = parseInt(location.hash.replace('#', ''), 10) - 1;
+  current = (!isNaN(initial) && initial >= 0 && initial < total) ? initial : 0;
+  render();
+})();
+</script>
+</body>
+</html>
