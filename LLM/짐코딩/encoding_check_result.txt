@@ -1,0 +1,7 @@
+'회사' -> -1
+'당' -> -1
+'슬라이닜' -> -1
+'보여주고' -> -1
+
+--- sample around byte 18793 area in raw file ---
+b'div class="done-overlay" id="done-overlay">\r\n    <div class="done-card">\r\n      <h2>Review Complete</h2>\r\n      <p>Your feedback has been saved. Go back to your Claude Code session and tell Claude you\'re done reviewing.</p>\r\n      <div class="btn-row">\r\n        <button onclick="closeDoneDialog()">OK'
