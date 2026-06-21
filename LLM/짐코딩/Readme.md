@@ -12,3 +12,6 @@
 
 5. [클로드 코드 토큰 녹는 분들, 이 6가지만 바꿔보세요](https://youtu.be/gLZ1wJUADqk?list=PLlaP-jSd-nK9yFk0VEvSvC1qk2GeEZmDq)
     - [Note](./Note/05_Claude_Code_Token_Saving.md)
+
+6. [클로드 코드 MCP Tool Search 기능 | 토큰 30% 절약하는 법](https://youtu.be/XLJqH-Vi4CM?list=PLlaP-jSd-nK9yFk0VEvSvC1qk2GeEZmDq)
+    - [Note](./Note/06_Claude_Code_MCP_Tool_Search.md)
